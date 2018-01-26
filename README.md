@@ -3,14 +3,6 @@ The world of mortals beautiful code
 
 Android Studio Darren注解IOC框架插件
 
-具体博客地址：暂时没有
-
-具体视频讲解：暂时没有
-
-个人QQ：240336124
-
-QQ群：546270670
-
 简介：这是本人写的一个插件，主要用于自己的IOC注解框架中，需要配合本人的开发框架使用。有点类似于ButterKnife注解框架，自己也是仿照网上写，大家
      可以下载源码里面有大量的注释。
      
